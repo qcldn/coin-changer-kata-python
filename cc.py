@@ -6,5 +6,4 @@ def change(amount):
         while amount >= coin:
             coins.append(coin)
             amount -= coin
-    coins.reverse()
-    return coins
+    return coins[::-1]
