@@ -9,7 +9,7 @@ If you're following along at home:
 ## Mac
 
     brew install python3
-    brew install pytest-watch
+    pip3 install pytest-watch
     
 ## Ubuntu
 
